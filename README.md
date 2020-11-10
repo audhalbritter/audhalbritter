@@ -24,7 +24,11 @@ Data Papers: https://github.com/Plant-Functional-Trait-Course/PFTC_1_2_China
 
 
 ### How to reach me
-Twitter: @audhalbritter
+
+Twitter: @audhalbritter <script src="https://twitter.com/audhalbritter""></script>
+
 ORCiD: 0000-0003-2597-6328
+
 Webpage: www.audhalbritter.com
+
 Blog: https://audhalbritter.com/blog-2/
