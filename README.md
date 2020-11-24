@@ -17,7 +17,7 @@ BioSTATS: https://github.com/biostats-r/biostats
 
 Tutorials:
 
-Rerproducible manuscripts
+Reproducible manuscripts
 
 Data Papers: https://github.com/Plant-Functional-Trait-Course/PFTC_1_2_China
 
